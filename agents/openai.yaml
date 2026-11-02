@@ -1,0 +1,3 @@
+interface:
+  display_name: "综述修改"
+  short_description: "依据指定稿件和批注精准修订综述，保留核实成果并持续补充修改要求"
